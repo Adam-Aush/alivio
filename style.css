@@ -1,0 +1,33 @@
+body{
+    width: 1920px;
+}
+.container{
+    width: 1413px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+}
+.logo{
+    margin-right: 172px;
+}
+a{
+    margin-right: 172px;
+    text-decoration: none;
+    color: #292929;
+}
+.bg{
+    padding-top: 175px;
+    height: 895px;
+    background: url(BG.jpg) center / cover;
+}
+h1{
+    
+    font-family: 'Georgia';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 74px;
+
+color: #01996D;
+}
